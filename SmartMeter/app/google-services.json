@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "495302086826",
+    "firebase_url": "https://smart-meter-21756.firebaseio.com",
+    "project_id": "smart-meter-21756",
+    "storage_bucket": "smart-meter-21756.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:495302086826:android:31037d4280d99303",
+        "android_client_info": {
+          "package_name": "com.example.paarthbir.smartmeter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "495302086826-4tqk38naqvcllu1ovds0ho4menrul9g4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUWjlQOesLNntLZWU93X34O4anHBJxuaU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "495302086826-4tqk38naqvcllu1ovds0ho4menrul9g4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

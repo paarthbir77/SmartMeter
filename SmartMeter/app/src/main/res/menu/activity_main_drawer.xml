@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_login"
+            android:icon="@drawable/team"
+            android:title="Login" />
+        <item
+            android:id="@+id/nav_schedule"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Scheduled Devices" />
+        <item
+            android:id="@+id/nav_stats"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Statistics" />
+        <item
+            android:id="@+id/nav_contact"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Contact Us" />
+        <item
+            android:id="@+id/nav_security"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Security" />
+    </group>
+
+
+</menu>
